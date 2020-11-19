@@ -1,1 +1,1 @@
-# markvarga.github.io-js-dice-game
+A cool game for 2 players made with HTML, CSS and JavaScript. With each dice roll you accumulate points which you can add to your total score, but be careful because if you roll number 1, you lose all your gathered points and it is the other player's turn. The player who collects 100 points first wins.
